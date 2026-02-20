@@ -1,6 +1,6 @@
 [project]
 name = "paste-cli"
-version = "0.2.0"
+version = "0.2.1"
 description = "A lightweight macOS clipboard manager with history, search, and an interactive picker."
 readme = "README.md"
 authors = [
